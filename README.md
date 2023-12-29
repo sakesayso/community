@@ -12,7 +12,7 @@ Your contributions are the essence of our community's growth and learning. We en
 
 ## Licensing
 
-All contributions to this repository, unless otherwise noted, are licensed under the [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/deed.en). This means:
+All contributions to this repository, unless otherwise noted, are licensed under the [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/). This means:
 
 - **Indulge and Remix**: Feel free to use, adapt, and build upon the contributed works.
 - **Attribute and Share**: When using others' contributions, give credit and share your enhancements under the same terms.

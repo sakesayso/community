@@ -1,7 +1,7 @@
 [
   {
     "path": "non-fiction/tec/1A86F3E6-C41F-4B9B-B6F7-040E25AF20CB.zip",
-    "sha256": "f2351c6f13bfddc722f0eb32b8e4afb978280ee3e022953f5be1f1439bac6075",
+    "sha256": "67d076a1347ec03bf720b7706dad499f68e6de7e4f71b4f3b3ad8d1690431ad6",
     "manifest": {
       "id": "1A86F3E6-C41F-4B9B-B6F7-040E25AF20CB",
       "version": "1.0",
@@ -13,7 +13,7 @@
       "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/non-fiction/tec/1A86F3E6-C41F-4B9B-B6F7-040E25AF20CB/cover.jpg",
       "author": "SakeSaySo",
       "authorTwitter": "sakesayso",
-      "authorNote": "First SakeSaySo community story written by ChatGPT.",
+      "authorNote": "Community story by SakeSaySo.",
       "created": "2023-12-29T10:55:10Z",
       "modified": "2023-12-29T10:55:10Z",
       "summary": {
@@ -21,8 +21,8 @@
         "en": "Discover the tale of innovation and progress and Japan's pivotal role in shaping the modern digital landscape. This story unfolds across three chapters, each highlighting a significant era in Japan's technological advancement, driven by the revolutionary transistor."
       },
       "tags": [
+        "FACTUAL",
         "TEC",
-        "BIZ",
         "N1"
       ],
       "license": "Creative Commons Attribution-ShareAlike"

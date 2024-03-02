@@ -1,5 +1,117 @@
 [
   {
+    "path": "jlpt/n1.zip",
+    "sha256": "2469850374cdce13e3c2ee8bda7f590e39347c9c2cbf1938fbdf43d3d57ccdfc",
+    "manifest": {
+      "id": "220EFB8A-1BF9-418B-A79F-C8E3CD083952",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N1",
+        "en": "JLPT N1"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n1/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-03-02T11:34:57Z",
+      "modified": "2024-03-02T11:34:55Z",
+      "summary": {
+        "ja": "日本語能力試験N1に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N1."
+      },
+      "tags": [
+        "JLPT",
+        "N1"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "jlpt/n2.zip",
+    "sha256": "d272fae73b29a1bb2750d9685ea9897baa6719d2d827f542ba8079748a4987b1",
+    "manifest": {
+      "id": "220EFB8A-1BF9-418B-A79F-C8E3CD083952",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N2",
+        "en": "JLPT N2"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n2/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-03-02T11:34:57Z",
+      "modified": "2024-03-02T11:34:55Z",
+      "summary": {
+        "ja": "日本語能力試験N2に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N2."
+      },
+      "tags": [
+        "JLPT",
+        "N2"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "jlpt/n3.zip",
+    "sha256": "941c5dbbda28b5245be44edffc342be46c6e85a1948d94160dcc01ede59fdca4",
+    "manifest": {
+      "id": "3EDB38E8-8E66-418B-8E92-D0F3EF8085DD",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N3",
+        "en": "JLPT N3"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n3/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-03-02T11:34:57Z",
+      "modified": "2024-03-02T11:34:55Z",
+      "summary": {
+        "ja": "日本語能力試験N3に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N3."
+      },
+      "tags": [
+        "JLPT",
+        "N3"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "jlpt/n4.zip",
+    "sha256": "092760f23a5b4a83fb37a579d7bbfce544adf510a980f508d2f76a6b06b89fb5",
+    "manifest": {
+      "id": "46838B54-E4D5-4C31-B3C7-53D715CE381E",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N4",
+        "en": "JLPT N4"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n4/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-03-02T11:34:57Z",
+      "modified": "2024-03-02T11:34:55Z",
+      "summary": {
+        "ja": "日本語能力試験N4に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N4."
+      },
+      "tags": [
+        "JLPT",
+        "N4"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
     "path": "jlpt/n5.zip",
     "sha256": "78c74431cd3491f7b41f5567e60c195ebe44483e98c4b95e4d7e1b13b2c0cd0d",
     "manifest": {

@@ -1,0 +1,24 @@
+{
+    "id": "46838B54-E4D5-4C31-B3C7-53D715CE381E",
+    "type": "deck",
+    "version": "1.0",
+    "title": {
+        "en": "JLPT N4",
+        "ja": "日本語能力試験N4"
+    },
+    "author": "SakeSaySo",
+    "authorTwitter": "sakesayso",
+    "authorNote": "Community deck by SakeSaySo.",
+    "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n4/cover.png",
+    "created": "2024-03-02T11:34:57Z",
+    "modified": "2024-03-02T11:34:55Z",
+    "summary": {
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N4.",
+        "ja": "日本語能力試験N4に合格するために知っておく必要がある語彙のリスト。"
+    },
+    "tags": [
+        "JLPT",
+        "N4"
+    ],
+    "license": "Creative Commons Attribution-ShareAlike"
+}

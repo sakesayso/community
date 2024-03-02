@@ -1,5 +1,33 @@
 [
   {
+    "path": "jlpt/n5.zip",
+    "sha256": "78c74431cd3491f7b41f5567e60c195ebe44483e98c4b95e4d7e1b13b2c0cd0d",
+    "manifest": {
+      "id": "5DD4FF95-01C1-41F4-80E3-2760CF616364",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N5",
+        "en": "JLPT N5"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n5/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-01-21T11:44:17Z",
+      "modified": "2024-01-21T11:44:17Z",
+      "summary": {
+        "ja": "日本語能力試験N5に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N5."
+      },
+      "tags": [
+        "JLPT",
+        "N5"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
     "path": "non-fiction/sci/2F98A92E-B14F-435F-B62E-2AD91FD0E862.zip",
     "sha256": "6b0918ed5a082367c205a92144b6ae6fef089cf4948c87ab36a6e788283745f3",
     "manifest": {

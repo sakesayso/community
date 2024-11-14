@@ -1,0 +1,200 @@
+[
+  {
+    "path": "jlpt/n1.zip",
+    "sha256": "2469850374cdce13e3c2ee8bda7f590e39347c9c2cbf1938fbdf43d3d57ccdfc",
+    "manifest": {
+      "id": "220EFB8A-1BF9-418B-A79F-C8E3CD083952",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N1",
+        "en": "JLPT N1"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n1/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-03-02T11:34:57Z",
+      "modified": "2024-03-02T11:34:55Z",
+      "summary": {
+        "ja": "日本語能力試験N1に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N1."
+      },
+      "tags": [
+        "JLPT",
+        "N1"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "jlpt/n2.zip",
+    "sha256": "d272fae73b29a1bb2750d9685ea9897baa6719d2d827f542ba8079748a4987b1",
+    "manifest": {
+      "id": "220EFB8A-1BF9-418B-A79F-C8E3CD083952",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N2",
+        "en": "JLPT N2"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n2/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-03-02T11:34:57Z",
+      "modified": "2024-03-02T11:34:55Z",
+      "summary": {
+        "ja": "日本語能力試験N2に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N2."
+      },
+      "tags": [
+        "JLPT",
+        "N2"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "jlpt/n3.zip",
+    "sha256": "941c5dbbda28b5245be44edffc342be46c6e85a1948d94160dcc01ede59fdca4",
+    "manifest": {
+      "id": "3EDB38E8-8E66-418B-8E92-D0F3EF8085DD",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N3",
+        "en": "JLPT N3"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n3/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-03-02T11:34:57Z",
+      "modified": "2024-03-02T11:34:55Z",
+      "summary": {
+        "ja": "日本語能力試験N3に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N3."
+      },
+      "tags": [
+        "JLPT",
+        "N3"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "jlpt/n4.zip",
+    "sha256": "092760f23a5b4a83fb37a579d7bbfce544adf510a980f508d2f76a6b06b89fb5",
+    "manifest": {
+      "id": "46838B54-E4D5-4C31-B3C7-53D715CE381E",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N4",
+        "en": "JLPT N4"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n4/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-03-02T11:34:57Z",
+      "modified": "2024-03-02T11:34:55Z",
+      "summary": {
+        "ja": "日本語能力試験N4に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N4."
+      },
+      "tags": [
+        "JLPT",
+        "N4"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "jlpt/n5.zip",
+    "sha256": "78c74431cd3491f7b41f5567e60c195ebe44483e98c4b95e4d7e1b13b2c0cd0d",
+    "manifest": {
+      "id": "5DD4FF95-01C1-41F4-80E3-2760CF616364",
+      "version": "1.0",
+      "type": "deck",
+      "title": {
+        "ja": "日本語能力試験N5",
+        "en": "JLPT N5"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n5/cover.png",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community deck by SakeSaySo.",
+      "created": "2024-01-21T11:44:17Z",
+      "modified": "2024-01-21T11:44:17Z",
+      "summary": {
+        "ja": "日本語能力試験N5に合格するために知っておく必要がある語彙のリスト。",
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N5."
+      },
+      "tags": [
+        "JLPT",
+        "N5"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "non-fiction/sci/2F98A92E-B14F-435F-B62E-2AD91FD0E862.zip",
+    "sha256": "6b0918ed5a082367c205a92144b6ae6fef089cf4948c87ab36a6e788283745f3",
+    "manifest": {
+      "id": "2F98A92E-B14F-435F-B62E-2AD91FD0E862",
+      "version": "1.0",
+      "type": "story",
+      "title": {
+        "ja": "はやぶさ2号の航海とマスコットの遺産",
+        "en": "The Hayabusa 2 Voyage and MASCOT's Legacy"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/non-fiction/sci/2F98A92E-B14F-435F-B62E-2AD91FD0E862/cover.jpg",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community story by SakeSaySo.",
+      "created": "2023-12-29T10:55:10Z",
+      "modified": "2023-12-29T10:55:10Z",
+      "summary": {
+        "ja": "はやぶさ2号の旅は、宇宙探査を超えて人間の好奇心と国際協力の象徴となるミッションです。日本のJAXAとドイツのDLRが参加するこの野心的なプロジェクトが、遠い小惑星リュウグウに到達し、私たちの太陽系の秘密を解き明かす過程を紹介します。星間旅行の挑戦やリュウグウの表面での画期的な発見から、この重要なミッションの文化的影響と将来的な意味まで、この記事では、我々の時代で最も注目すべき宇宙ミッションの一つを包括的かつ魅力的に探求します。",
+        "en": "The journey of Hayabusa 2, a mission that transcends space exploration to become a symbol of human curiosity and international collaboration. Discover how this ambitious project, involving Japan's JAXA and Germany's DLR, ventured to the distant asteroid Ryugu to unravel secrets of our solar system. From the challenges of interstellar travel and groundbreaking discoveries on Ryugu's surface to the cultural impact and future implications of this monumental mission, this article offers a comprehensive yet engaging exploration of one of the most remarkable space missions of our time."
+      },
+      "tags": [
+        "FACTUAL",
+        "SCI",
+        "N1"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  },
+  {
+    "path": "non-fiction/tec/1A86F3E6-C41F-4B9B-B6F7-040E25AF20CB.zip",
+    "sha256": "67d076a1347ec03bf720b7706dad499f68e6de7e4f71b4f3b3ad8d1690431ad6",
+    "manifest": {
+      "id": "1A86F3E6-C41F-4B9B-B6F7-040E25AF20CB",
+      "version": "1.0",
+      "type": "story",
+      "title": {
+        "ja": "日本のトランジスタ革命の旅",
+        "en": "The Journey of Japan's Transistor Revolution"
+      },
+      "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/non-fiction/tec/1A86F3E6-C41F-4B9B-B6F7-040E25AF20CB/cover.jpg",
+      "author": "SakeSaySo",
+      "authorTwitter": "sakesayso",
+      "authorNote": "Community story by SakeSaySo.",
+      "created": "2023-12-29T10:55:10Z",
+      "modified": "2023-12-29T10:55:10Z",
+      "summary": {
+        "ja": "革新と進歩の物語、そして現代のデジタル風景を形作る上での日本の重要な役割を発見しましょう。この物語は3つの章にわたって展開され、それぞれが革命的なトランジスタによって推進された日本の技術進歩の重要な時代を強調しています。",
+        "en": "Discover the tale of innovation and progress and Japan's pivotal role in shaping the modern digital landscape. This story unfolds across three chapters, each highlighting a significant era in Japan's technological advancement, driven by the revolutionary transistor."
+      },
+      "tags": [
+        "FACTUAL",
+        "TEC",
+        "N1"
+      ],
+      "license": "Creative Commons Attribution-ShareAlike"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+{
+    "id": "2F98A92E-B14F-435F-B62E-2AD91FD0E862",
+    "type": "story",
+    "version": "1.0",
+    "title": {
+        "en": "The Hayabusa 2 Voyage and MASCOT's Legacy",
+        "ja": "はやぶさ2号の航海とマスコットの遺産"
+    },
+    "author": "SakeSaySo",
+    "authorTwitter": "sakesayso",
+    "authorNote": "Community story by SakeSaySo.",
+    "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/non-fiction/sci/2F98A92E-B14F-435F-B62E-2AD91FD0E862/cover.jpg",
+    "created": "2023-12-29T10:55:10Z",
+    "modified": "2023-12-29T10:55:10Z",
+    "summary": {
+        "en": "The journey of Hayabusa 2, a mission that transcends space exploration to become a symbol of human curiosity and international collaboration. Discover how this ambitious project, involving Japan's JAXA and Germany's DLR, ventured to the distant asteroid Ryugu to unravel secrets of our solar system. From the challenges of interstellar travel and groundbreaking discoveries on Ryugu's surface to the cultural impact and future implications of this monumental mission, this article offers a comprehensive yet engaging exploration of one of the most remarkable space missions of our time.",
+        "ja": "はやぶさ2号の旅は、宇宙探査を超えて人間の好奇心と国際協力の象徴となるミッションです。日本のJAXAとドイツのDLRが参加するこの野心的なプロジェクトが、遠い小惑星リュウグウに到達し、私たちの太陽系の秘密を解き明かす過程を紹介します。星間旅行の挑戦やリュウグウの表面での画期的な発見から、この重要なミッションの文化的影響と将来的な意味まで、この記事では、我々の時代で最も注目すべき宇宙ミッションの一つを包括的かつ魅力的に探求します。"
+    },
+    "tags": [
+        "FACTUAL",
+        "SCI",
+        "N1"
+    ],
+    "license": "Creative Commons Attribution-ShareAlike"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "1A86F3E6-C41F-4B9B-B6F7-040E25AF20CB",
+    "type": "story",
+    "version": "1.0",
+    "title": {
+        "en": "The Journey of Japan's Transistor Revolution",
+        "ja": "日本のトランジスタ革命の旅"
+    },
+    "author": "SakeSaySo",
+    "authorTwitter": "sakesayso",
+    "authorNote": "Community story by SakeSaySo.",
+    "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/non-fiction/tec/1A86F3E6-C41F-4B9B-B6F7-040E25AF20CB/cover.jpg",
+    "created": "2023-12-29T10:55:10Z",
+    "modified": "2023-12-29T10:55:10Z",
+    "summary": {
+        "en": "Discover the tale of innovation and progress and Japan's pivotal role in shaping the modern digital landscape. This story unfolds across three chapters, each highlighting a significant era in Japan's technological advancement, driven by the revolutionary transistor.",
+        "ja": "革新と進歩の物語、そして現代のデジタル風景を形作る上での日本の重要な役割を発見しましょう。この物語は3つの章にわたって展開され、それぞれが革命的なトランジスタによって推進された日本の技術進歩の重要な時代を強調しています。"
+    },
+    "tags": [
+        "FACTUAL",
+        "TEC",
+        "N1"
+    ],
+    "license": "Creative Commons Attribution-ShareAlike"
+}

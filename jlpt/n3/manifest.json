@@ -1,0 +1,24 @@
+{
+    "id": "3EDB38E8-8E66-418B-8E92-D0F3EF8085DD",
+    "type": "deck",
+    "version": "1.0",
+    "title": {
+        "en": "JLPT N3",
+        "ja": "日本語能力試験N3"
+    },
+    "author": "SakeSaySo",
+    "authorTwitter": "sakesayso",
+    "authorNote": "Community deck by SakeSaySo.",
+    "teaserImage": "https://raw.githubusercontent.com/sakesayso/community/master/jlpt/n3/cover.png",
+    "created": "2024-03-02T11:34:57Z",
+    "modified": "2024-03-02T11:34:55Z",
+    "summary": {
+        "en": "A list of the vocabulary that you need to know in order to pass the JLPT N3.",
+        "ja": "日本語能力試験N3に合格するために知っておく必要がある語彙のリスト。"
+    },
+    "tags": [
+        "JLPT",
+        "N3"
+    ],
+    "license": "Creative Commons Attribution-ShareAlike"
+}
